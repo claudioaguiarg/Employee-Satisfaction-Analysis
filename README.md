@@ -4,6 +4,14 @@
 
 O conjunto de dados disponível no Kaggle constitui uma fonte rica e abrangente de informações sobre os funcionários de uma empresa. Este projeto visa empregar técnicas avançadas de Machine Learning para analisar e extrair insights significativos a partir do conjunto de dados "Employee Satisfaction Survey", com foco especial na variável "satisfaction_level". A satisfação do funcionário desempenha um papel crucial no desempenho organizacional e na retenção de talentos, tornando-se um indicador chave para ações estratégicas de gestão de recursos humanos.
 
+## Equipe
+
+- Anna Vithória
+- Cláudio Aguia
+- Guilherme Benvenuto
+- Irís Pires
+- Victor Alexander
+
 ## Dataset Escolhido: Employee Satisfaction
 
 O conjunto de dados "Employee Satisfaction Survey" é uma coleção abrangente de informações sobre os funcionários dentro de uma empresa. Ele inclui detalhes essenciais, como números de identificação dos funcionários, níveis de satisfação auto-relatados, avaliações de desempenho, envolvimento em projetos, horas de trabalho, tempo de serviço na empresa, acidentes de trabalho, promoções recebidas nos últimos 5 anos, afiliações departamentais e níveis salariais. Este conjunto de dados oferece insights valiosos sobre os fatores que influenciam a satisfação dos funcionários e pode ser usado para analisar e compreender vários aspectos do ambiente de trabalho.
