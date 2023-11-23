@@ -8,18 +8,20 @@ O conjunto de dados disponível no Kaggle constitui uma fonte rica e abrangente 
 
 O conjunto de dados "Employee Satisfaction Survey" é uma coleção abrangente de informações sobre os funcionários dentro de uma empresa. Ele inclui detalhes essenciais, como números de identificação dos funcionários, níveis de satisfação auto-relatados, avaliações de desempenho, envolvimento em projetos, horas de trabalho, tempo de serviço na empresa, acidentes de trabalho, promoções recebidas nos últimos 5 anos, afiliações departamentais e níveis salariais. Este conjunto de dados oferece insights valiosos sobre os fatores que influenciam a satisfação dos funcionários e pode ser usado para analisar e compreender vários aspectos do ambiente de trabalho.
 
-### Colunas do Conjunto de Dados
+## Colunas do Conjunto de Dados
 
-- **Emp ID:** Número de identificação do funcionário
-- **Satisfaction Level:** Nível de satisfação auto-relatado
-- **Last Evaluation:** Última avaliação de desempenho
-- **Number of Projects:** Número de projetos em que o funcionário está envolvido
-- **Average Monthly Hours:** Média de horas mensais trabalhadas
-- **Time Spent in Company:** Tempo de serviço na empresa
-- **Work Accident:** Indica se o funcionário sofreu algum acidente de trabalho (1 para Sim, 0 para Não)
-- **Promotion Last 5 Years:** Indica se o funcionário recebeu alguma promoção nos últimos 5 anos (1 para Sim, 0 para Não)
-- **Dept:** Departamento ao qual o funcionário está afiliado
-- **Salary:** Nível salarial do funcionário
+| Coluna                  | Descrição                                                                       |
+|-------------------------|---------------------------------------------------------------------------------|
+| Emp ID                  | Número de identificação do funcionário                                         |
+| Satisfaction Level      | Nível de satisfação auto-relatado                                              |
+| Last Evaluation         | Última avaliação de desempenho                                                 |
+| Number of Projects      | Número de projetos em que o funcionário está envolvido                          |
+| Average Monthly Hours   | Média de horas mensais trabalhadas                                              |
+| Time Spent in Company   | Tempo de serviço na empresa                                                     |
+| Work Accident           | Indica se o funcionário sofreu algum acidente de trabalho (1 para Sim, 0 para Não)|
+| Promotion Last 5 Years  | Indica se o funcionário recebeu alguma promoção nos últimos 5 anos (1 para Sim, 0 para Não)|
+| Dept                    | Departamento ao qual o funcionário está afiliado                               |
+| Salary                  | Nível salarial do funcionário                                                  |
 
 ## Objetivo do Projeto
 
