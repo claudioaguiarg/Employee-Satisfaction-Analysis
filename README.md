@@ -30,16 +30,13 @@ O objetivo deste trabalho é explorar e analisar as potenciais oportunidades de 
 ## Como Utilizar Este Repositório
 
 1. **Notebooks:**
-   - O diretório `notebooks` contém Jupyter Notebooks que detalham o processo de análise e aplicação de algoritmos de Machine Learning.
+   - O diretório `notebook` contém Jupyter Notebooks que detalham o processo de análise e aplicação de algoritmos de Machine Learning.
 
 2. **Dados:**
-   - O conjunto de dados está disponível no arquivo `employee_satisfaction_data.csv`. Utilize-o para replicar a análise ou para realizar suas próprias investigações.
+   - O conjunto de dados está disponível no arquivo `employee_satisfaction_data.csv` também na pasta `noebook` para fácil importação dentro do projeto. Utilize-o para replicar a análise ou para realizar suas próprias investigações.
 
-3. **Código-fonte:**
-   - O diretório `src` contém scripts Python utilizados durante a análise.
-
-4. **Resultados:**
-   - Os resultados e visualizações obtidos durante a análise são compartilhados no diretório `results`.
+3. **Resultados:**
+   - Os resultados e visualizações obtidos durante a análise são compartilhados no próprio notebook do projeto.
 
 ## Contribuições
 
